@@ -1,0 +1,11 @@
+.container {
+    max-width: 1000px;
+}
+body {
+    background-color: green;
+}
+button {
+    width: 15%;
+    height: 40px;
+    background-color: rgba(13, 60, 216, 0.876);
+}

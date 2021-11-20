@@ -1,0 +1,12 @@
+body {
+    width: 300px;
+    background-color: pink;
+}
+input {
+    width: 100%;
+    height: 30px;
+    border: solid gray;
+}
+button {
+    align-items: center;
+}
